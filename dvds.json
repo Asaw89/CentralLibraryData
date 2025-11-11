@@ -1,0 +1,32 @@
+[
+    {
+        "genre": "[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",
+        "duration": 81.0,
+        "title": "Toy Story",
+        "vote_average": 7.7
+    },
+    {
+        "genre": "[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",
+        "duration": 104.0,
+        "title": "Jumanji",
+        "vote_average": 6.9
+    },
+    {
+        "genre": "[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",
+        "duration": 101.0,
+        "title": "Grumpier Old Men",
+        "vote_average": 6.5
+    },
+    {
+        "genre": "[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",
+        "duration": 127.0,
+        "title": "Waiting to Exhale",
+        "vote_average": 6.1
+    },
+    {
+        "genre": "[{'id': 35, 'name': 'Comedy'}]",
+        "duration": 106.0,
+        "title": "Father of the Bride Part II",
+        "vote_average": 5.7
+    }
+]

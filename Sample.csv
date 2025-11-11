@@ -1,0 +1,6 @@
+genres,Duration,title,vote_average
+"[{'id': 16, 'name': 'Animation'}, {'id': 35, 'name': 'Comedy'}, {'id': 10751, 'name': 'Family'}]",81.0,Toy Story,7.7
+"[{'id': 12, 'name': 'Adventure'}, {'id': 14, 'name': 'Fantasy'}, {'id': 10751, 'name': 'Family'}]",104.0,Jumanji,6.9
+"[{'id': 10749, 'name': 'Romance'}, {'id': 35, 'name': 'Comedy'}]",101.0,Grumpier Old Men,6.5
+"[{'id': 35, 'name': 'Comedy'}, {'id': 18, 'name': 'Drama'}, {'id': 10749, 'name': 'Romance'}]",127.0,Waiting to Exhale,6.1
+"[{'id': 35, 'name': 'Comedy'}]",106.0,Father of the Bride Part II,5.7

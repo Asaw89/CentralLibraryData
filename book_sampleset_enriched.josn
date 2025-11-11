@@ -1,0 +1,42 @@
+[
+    {
+        "Text#": "20",
+        "Title": "Paradise Lost",
+        "Authors": "Milton, John",
+        "Genre": "English Literature",
+        "ISBN": "9780140424393",
+        "Pages": "512"
+    },
+    {
+        "Text#": "34",
+        "Title": "Zen and the Art of the Internet",
+        "Authors": "Kehoe, Brendan P.",
+        "Genre": "Electrical Engineering & Electronics",
+        "ISBN": "9780130107787",
+        "Pages": "112"
+    },
+    {
+        "Text#": "55",
+        "Title": "The Wonderful Wizard of Oz",
+        "Authors": "Baum, L. Frank ",
+        "Genre": "Children’s & YA Literature",
+        "ISBN": "9780486291161",
+        "Pages": "144"
+    },
+    {
+        "Text#": "67",
+        "Title": "The Black Experience in America",
+        "Authors": "Coombs, Norman",
+        "Genre": "U.S. History",
+        "ISBN": "9781594560927",
+        "Pages": "340"
+    },
+    {
+        "Text#": "101",
+        "Title": "The Hacker Crackdown: Law and Disorder on the Electronic Frontier",
+        "Authors": "Sterling, Bruce",
+        "Genre": "Criminology & Social Problems",
+        "ISBN": "9780553563702",
+        "Pages": "336"
+    }
+]

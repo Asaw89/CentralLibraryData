@@ -2,7 +2,7 @@ import csv
 import json
 
 input_csv = "book_sampleset_enriched.csv"
-output_json = "book_sampleset_enriched.josn"
+output_json = "book_sampleset_enriched.json"
 
 data = []
 columns_to_keep = ["Text#", "Title", "Authors", "Genre", "ISBN", "Pages"]

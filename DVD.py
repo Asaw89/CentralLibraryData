@@ -4,13 +4,13 @@ from collections import defaultdict
 
 data= []
 
-with open('DVDs.csv') as csv_file:
+with open('DVDs2.csv') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     
     for row in csv_reader:
         dvds = {
             'genres': row['genres'],
-            'duration': float(row['Duration']),
+            'duration': float(row['duration']),
             'title': row['title'],
             'directors': (row['directors'])
         }

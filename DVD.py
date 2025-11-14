@@ -4,15 +4,15 @@ from collections import defaultdict
 
 data= []
 
-with open('Sample.csv') as csv_file:
+with open('DVDs.csv') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     
     for row in csv_reader:
         dvds = {
-            'genre': row['genres'],
+            'genres': row['genres'],
             'duration': float(row['Duration']),
             'title': row['title'],
-            'vote_average': float(row['vote_average'])
+            'directors': (row['directors'])
         }
         data.append(dvds)
 
